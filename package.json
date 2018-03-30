@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/520Yanxiaofei/koa_admin/issues"
   },
-  "homepage": "https://github.com/520Yanxiaofei/koa_admin#readme"
+  "homepage": "https://github.com/520Yanxiaofei/koa_admin#readme",
+  "devDependencies": {
+    "ejs": "^2.5.8",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-mysql-session": "0.0.2",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.2",
+    "path": "^0.12.7"
+  },
+  "dependencies": {}
 }
