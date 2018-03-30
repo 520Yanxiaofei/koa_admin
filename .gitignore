@@ -1,0 +1,12 @@
+dist
+node_modules
+.vscode
+.nyc_output
+.DS_Store
+.idea/
+coverage
+.vscode
+.nyc_output
+.zip
+coverage
+dist.zip
