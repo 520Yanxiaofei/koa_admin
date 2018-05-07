@@ -2,7 +2,6 @@ const Koa = require('koa')
 const app = new Koa()
 
 app.use(async(ctx) => {
-
     if (ctx.url === '/' && ctx.method === 'GET') {
         // 当GET请求时候返回表单页面
         let html = `
